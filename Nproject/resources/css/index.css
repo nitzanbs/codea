@@ -1,0 +1,55 @@
+ .banner1 {
+    background-color: bisque; 
+    color: rgb(11, 12, 13);
+    margin-top: 100px;
+    text-align: center;
+    padding: 100px 0;
+ }
+ .banner4 {
+  background-color: bisque; 
+  color: rgb(11, 12, 13);
+  margin-top: 40px;
+  text-align: center;
+  padding: 70px 0;
+}
+.banner5 {
+  background-color: bisque; 
+  color: rgb(11, 12, 13);
+  margin-top: 40px;
+  text-align: center;
+  padding: 2px 0;
+}
+ #main-pic {
+   height: 300px;
+   width: 300px; 
+  }
+
+ .bold {
+  font-weight: 600;
+  font-size: xx-large
+  }  
+  .bold2 {
+    font-weight: 600;
+    font-size: x-large
+    }  
+
+  .bold3 {
+      font-weight: 600;
+      font-size: large;
+      color:  rgb(59, 130, 196);
+      }
+    
+
+  .head {
+    font-weight: 700;
+    font-size: 100px
+  }
+
+
+  #banner2 {
+   color: blueviolet; 
+   font-size: 30px;
+   text-align: center; 
+   padding: 100px 0;
+  }
+
